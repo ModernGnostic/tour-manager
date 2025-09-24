@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+
+# IDE / Editor
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build / Dist
+dist/
+build/
+coverage/
+
+# Archives
+*.zip
+*.tar.gz
+
+# WordPress environment (if you ever dev in wp-env/docker)
+.wp-env.json
